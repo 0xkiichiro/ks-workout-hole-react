@@ -26,3 +26,9 @@ body {
   margin: 1rem;
   color: hsl(164, 94%, 75%);
 }
+
+.bimbo {
+  font-size: 2rem;
+  font-family: "Bimbo", sans-serif;
+  font-weight: 700;
+}

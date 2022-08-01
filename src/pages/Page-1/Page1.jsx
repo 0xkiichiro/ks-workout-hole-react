@@ -8,11 +8,11 @@ const Page1 = () => {
     <Page1Styled justify={"space-around"}>
       <Flex flexDirection={"column"}>
         <Button>JOIN THE COMMUNITY</Button>
-        <Label>get free workouts everyday!</Label>
+        <Label className="bimbo">get free workouts everyday!</Label>
         <Button>BOOK A FREE TRIAL SESSION</Button>
-        <Label className="v1-heading neonText">get coached by K!</Label>
+        <Label className="bimbo">get coached by K!</Label>
         <Button>K'S EXERCISE LIBRARY</Button>
-        <Label className="v1-heading neonText">
+        <Label className="bimbo">
           learn all exercises with correct technique!
         </Label>
       </Flex>

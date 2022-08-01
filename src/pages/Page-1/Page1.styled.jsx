@@ -17,7 +17,7 @@ export const Button = styled.button`
 
 export const Label = styled.label`
   font-size: 2rem;
-  font-family: "Bimbo", sans-serif;
+  /* font-family: "Bimbo", sans-serif; */
   font-weight: 700;
 
   color: #fff;
