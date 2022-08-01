@@ -6,7 +6,7 @@ const Page2Styled = styled(Page)`
 `;
 
 export const H1 = styled.h1`
-  font-family: "Bukhari Script", sans-serif;
+  /* font-family: "Bukhari Script", sans-serif; */
   font-size: 50px;
   color: ${({ theme }) => theme.color.colorTeal};
 `;
