@@ -6,7 +6,7 @@ import kayaPortrait from "../../assets/img/kayaPortrait.JPG";
 const Page2 = () => {
   return (
     <Page2Styled flexDirection="column" justify="space-evenly">
-      <H1>Who is K?</H1>
+      <H1 className="bukhari">Who is K?</H1>
       <Flex>
         <img
           src={kayaPortrait}
