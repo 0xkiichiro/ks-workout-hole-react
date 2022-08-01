@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ks-workout-hole-react/static/css/main.b85f9f8c.css",
-    "main.js": "/ks-workout-hole-react/static/js/main.a11c2b36.js",
+    "main.js": "/ks-workout-hole-react/static/js/main.86de8fda.js",
     "static/media/IMG-0916.jpeg": "/ks-workout-hole-react/static/media/IMG-0916.d93743df237e3e3ef8ba.jpeg",
     "static/media/IMG-0844.jpeg": "/ks-workout-hole-react/static/media/IMG-0844.4d18c6fd918052677795.jpeg",
     "static/media/steven.jpeg": "/ks-workout-hole-react/static/media/steven.19cc254b4ce16c2c6e90.jpeg",
@@ -15,10 +15,10 @@
     "static/media/peach.png": "/ks-workout-hole-react/static/media/peach.1ff98f81d9d024e588a9.png",
     "index.html": "/ks-workout-hole-react/index.html",
     "main.b85f9f8c.css.map": "/ks-workout-hole-react/static/css/main.b85f9f8c.css.map",
-    "main.a11c2b36.js.map": "/ks-workout-hole-react/static/js/main.a11c2b36.js.map"
+    "main.86de8fda.js.map": "/ks-workout-hole-react/static/js/main.86de8fda.js.map"
   },
   "entrypoints": [
     "static/css/main.b85f9f8c.css",
-    "static/js/main.a11c2b36.js"
+    "static/js/main.86de8fda.js"
   ]
 }
