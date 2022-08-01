@@ -29,10 +29,10 @@ body {
 
 .bimbo {
   font-size: 2rem;
-  font-family: "Bimbo", sans-serif;
+  font-family: "Bimbo", sans-serif !important;
   font-weight: 700;
 }
 
 .bukhari {
-  font-family: "Bukhari Script", sans-serif;
+  font-family: "Bukhari Script", sans-serif !important;
 }
