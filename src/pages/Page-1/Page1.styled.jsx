@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import Page from "../../components/GlobalStyles/Page.styled";
+import "https://fonts.cdnfonts.com/css/bimbo%20";
 
 const Page1Styled = styled(Page)``;
 
