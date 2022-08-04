@@ -6,22 +6,26 @@ const Page11Styled = styled(Page)`
 `;
 
 export const H1 = styled.h1`
-  font-family: "Bukhari Script", sans-serif;
+  /* font-family: "Bukhari Script", sans-serif; */
+  font-family: "Mouse Memoirs", sans-serif;
   font-size: 50px;
   color: ${({ theme }) => theme.color.colorTeal};
 `;
 
 export const Label = styled.label`
-  font-size: 2rem;
-  font-family: "Bimbo", sans-serif;
-  font-weight: 700;
+  font-size: 3rem;
+  font-family: "Mouse Memoirs", sans-serif;
+  font-weight: 400;
 
   color: #fff;
   text-shadow: 0 0 1px #fff, 0 0 1px #fff, 0 0 21px #fff;
+  /* margin: 2rem 0; */
+  margin: 1rem 0;
 `;
 
 export const P = styled.p`
   font-family: "Big Shoulders Display";
+  font-family: "Mouse Memoirs", sans-serif;
   font-size: 40px;
   font-weight: bold;
   text-transform: uppercase;
@@ -29,7 +33,9 @@ export const P = styled.p`
 `;
 
 export const Img = styled.img`
+  position: relative;
   width: 400px;
+  left: 15px;
 `;
 
 export default Page11Styled;

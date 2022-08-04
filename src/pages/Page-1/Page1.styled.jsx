@@ -15,12 +15,13 @@ export const Button = styled.button`
 `;
 
 export const Label = styled.label`
-  font-size: 2rem;
-  /* font-family: "Bimbo", sans-serif; */
-  font-weight: 700;
+  font-size: 3rem;
+  font-family: "Mouse Memoirs", sans-serif;
+  font-weight: 400;
 
   color: #fff;
   text-shadow: 0 0 1px #fff, 0 0 1px #fff, 0 0 21px #fff;
+  margin: 2rem 0;
 `;
 
 export default Page1Styled;
