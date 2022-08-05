@@ -21,7 +21,8 @@ export const Label = styled.label`
 
   color: #fff;
   text-shadow: 0 0 1px #fff, 0 0 1px #fff, 0 0 21px #fff;
-  margin: 2rem 0;
+  margin-bottom: 3rem;
+  margin-top: 1rem;
 `;
 
 export default Page1Styled;

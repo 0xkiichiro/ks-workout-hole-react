@@ -5,7 +5,8 @@
 }
 
 body {
-  background-color: hsl(323, 100%, 70%);
+  /* background-color: hsl(323, 100%, 70%); */
+  background-color: #a03d7a;
   display: flex;
   justify-content: center;
   align-items: center;

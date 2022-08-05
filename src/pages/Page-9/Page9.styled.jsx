@@ -22,9 +22,10 @@ export const H2 = styled.h2`
 
 export const P = styled.p`
   /* font-family: "Big Shoulders Display"; */
-  font-family: "Playfair Display", serif;
-  /* font-size: 30px; */
-  font-size: 20px;
+  /* font-family: "Playfair Display", serif; */
+  font-family: "Mouse Memoirs", sans-serif;
+  font-size: 30px;
+  /* font-size: 20px; */
   font-weight: bolder;
   /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
