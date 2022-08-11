@@ -8,8 +8,9 @@ const Page8Styled = styled(Page)`
 export const H1 = styled.h1`
   /* font-family: "Bukhari Script", sans-serif; */
   font-family: "Mouse Memoirs", sans-serif;
-  font-size: 50px;
+  font-size: 70px;
   color: ${({ theme }) => theme.color.colorTeal};
+  text-shadow: 5px 5px 1px black;
 `;
 
 export const P = styled.p`

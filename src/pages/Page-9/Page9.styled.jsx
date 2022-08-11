@@ -8,16 +8,18 @@ const Page9Styled = styled(Page)`
 export const H1 = styled.h1`
   /* font-family: "Bukhari Script", sans-serif; */
   font-family: "Mouse Memoirs", sans-serif;
-  font-size: 50px;
+  font-size: 70px;
   color: ${({ theme }) => theme.color.colorTeal};
+  text-shadow: 5px 5px 1px black;
 `;
 
 export const H2 = styled.h2`
   /* font-family: "Bukhari Script", sans-serif; */
   font-family: "Mouse Memoirs", sans-serif;
-  font-size: 33px;
+  font-size: 40px;
   color: ${({ theme }) => theme.color.colorTeal};
   margin-top: 1rem;
+  text-shadow: 5px 5px 1px black;
 `;
 
 export const P = styled.p`
