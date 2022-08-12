@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ks-workout-hole-react/static/css/main.e379c344.css",
-    "main.js": "/ks-workout-hole-react/static/js/main.5965176a.js",
+    "main.css": "/ks-workout-hole-react/static/css/main.3f50a7a5.css",
+    "main.js": "/ks-workout-hole-react/static/js/main.368036ec.js",
     "static/media/IMG-0916.jpeg": "/ks-workout-hole-react/static/media/IMG-0916.d93743df237e3e3ef8ba.jpeg",
     "static/media/IMG-0844.jpeg": "/ks-workout-hole-react/static/media/IMG-0844.4d18c6fd918052677795.jpeg",
     "static/media/steven.jpeg": "/ks-workout-hole-react/static/media/steven.19cc254b4ce16c2c6e90.jpeg",
@@ -11,14 +11,12 @@
     "static/media/logo-teal.png": "/ks-workout-hole-react/static/media/logo-teal.ac687a1383c792a8396c.png",
     "static/media/tunch.jpeg": "/ks-workout-hole-react/static/media/tunch.7d33dab447fba4336fb4.jpeg",
     "static/media/click-me.png": "/ks-workout-hole-react/static/media/click-me.4ea3e16f9f6690c790a1.png",
-    "static/media/doodle.png": "/ks-workout-hole-react/static/media/doodle.d57f5bcb86bff57d58e3.png",
-    "static/media/peach.png": "/ks-workout-hole-react/static/media/peach.1ff98f81d9d024e588a9.png",
     "index.html": "/ks-workout-hole-react/index.html",
-    "main.e379c344.css.map": "/ks-workout-hole-react/static/css/main.e379c344.css.map",
-    "main.5965176a.js.map": "/ks-workout-hole-react/static/js/main.5965176a.js.map"
+    "main.3f50a7a5.css.map": "/ks-workout-hole-react/static/css/main.3f50a7a5.css.map",
+    "main.368036ec.js.map": "/ks-workout-hole-react/static/js/main.368036ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.e379c344.css",
-    "static/js/main.5965176a.js"
+    "static/css/main.3f50a7a5.css",
+    "static/js/main.368036ec.js"
   ]
 }
