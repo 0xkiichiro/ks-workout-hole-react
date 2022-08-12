@@ -46,4 +46,28 @@ export const ImgLogo = styled.div`
   right: -50px;
 `;
 
+export const Input = styled.input`
+  background-color: ${({ theme }) => theme.color.colorTeal};
+  border: none;
+  outline: none;
+  padding: 1.5rem 3rem;
+  border-radius: 2.5rem;
+  font-size: 2rem;
+`;
+
+export const Button = styled.button`
+  padding: 1rem 0;
+  margin-top: 1rem;
+  background-color: black;
+  color: white;
+  border-radius: 4rem;
+  font-family: "Big Shoulders Display", cursive;
+  font-size: 30pt;
+  text-shadow: 0 0 4px #fcf9f9;
+
+  &:hover {
+    cursor: pointer;
+  }
+`;
+
 export default Page11Styled;

@@ -1,4 +1,12 @@
-import Page11Styled, { H1, Img, ImgLogo, Label, P } from "./Page11.styled";
+import Page11Styled, {
+  Button,
+  H1,
+  Img,
+  ImgLogo,
+  Input,
+  Label,
+  P,
+} from "./Page11.styled";
 import clickMe from "../../assets/click-me.png";
 import Flex from "../../components/GlobalStyles/Flex.styled";
 import { BsWhatsapp, BsInstagram } from "react-icons/bs";
@@ -21,7 +29,16 @@ const Page11 = () => {
         </div>
         <Label>get coached by k!</Label>
         <P>Type your email below, then k reaches you:</P>
-        <Img src={clickMe} alt="" />
+        <form
+          style={{
+            display: "flex",
+            flexDirection: "column",
+          }}
+        >
+          <Input type="email"></Input>
+          <Button type="submit">Send</Button>
+        </form>
+        {/* <Img src={clickMe} alt="" /> */}
         <P>I don't have tıme to waıt! I need to reach K asap!</P>
         <P>ok, there you go:</P>
         <Flex>
