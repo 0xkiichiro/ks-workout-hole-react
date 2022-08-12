@@ -24,6 +24,18 @@ export const Label = styled.label`
   margin: 1rem 0;
 `;
 
+export const LabelCaps = styled.label`
+  font-size: 4rem;
+  font-family: "Mouse Memoirs", sans-serif;
+  font-weight: 400;
+
+  color: #fff;
+  text-shadow: 0 0 1px #fff, 0 0 1px #fff, 0 0 21px #fff;
+  /* margin: 2rem 0; */
+  margin: 1rem 0;
+  text-transform: uppercase;
+`;
+
 export const P = styled.p`
   /* font-family: "Big Shoulders Display"; */
   font-family: "Mouse Memoirs", sans-serif;

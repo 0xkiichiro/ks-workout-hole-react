@@ -1,16 +1,8 @@
-import Page10Styled, {
-  Doodle,
-  H1,
-  Img,
-  Label,
-  P,
-  Peach,
-} from "./Page10.styled";
+import Page10Styled, { H1, Img, Label, LabelCaps, P } from "./Page10.styled";
 import { BsInstagram, BsFacebook } from "react-icons/bs";
 import Flex from "../../components/GlobalStyles/Flex.styled";
-import doodle from "../../assets/doodle.png";
-import peach from "../../assets/peach.png";
 import logo from "../../assets/img/logo-teal.png";
+import Table from "../../components/Table/Table";
 
 const Page10 = () => {
   return (
@@ -36,16 +28,21 @@ const Page10 = () => {
           <BsFacebook className="contact-icon" />
           <P>K's Workout Hole</P>
         </Flex>
-        <Label>7 days ın a week, just lıke brushıng teeth!</Label>
-        {/* <Flex>
+        <Flex style={{ width: "80%" }} justify="space-around">
+          <Flex style={{ width: "40%" }}>
+            <LabelCaps>
+              7 different workouts for 7 different days of the week:
+            </LabelCaps>
+          </Flex>
+          <Table />
+          {/* <Doodle src={doodle} alt="" />
           <Doodle src={doodle} alt="" />
           <Doodle src={doodle} alt="" />
           <Doodle src={doodle} alt="" />
           <Doodle src={doodle} alt="" />
-          <Doodle src={doodle} alt="" />
-          <Doodle src={doodle} alt="" />
+          <Doodle src={doodle} alt="" /> */}
         </Flex>
-        <Peach src={peach} alt="" /> */}
+        {/* <Peach src={peach} alt="" /> */}
       </Page10Styled>
       <Img>
         <img src={logo} style={{ width: "100%" }}></img>

@@ -52,3 +52,7 @@ body {
 .page-1-button:hover {
   transform: scale(1.1);
 }
+
+.tr:nth-child(odd) {
+  background-color: lightgray;
+}
