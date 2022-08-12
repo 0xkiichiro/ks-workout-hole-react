@@ -1,9 +1,7 @@
 import styled from "styled-components";
 import Page from "../../components/GlobalStyles/Page.styled";
 
-const Page4Styled = styled(Page)`
-  /* ... */
-`;
+const Page4Styled = styled(Page)``;
 
 export const H1 = styled.h1`
   /* font-family: "Bukhari Script", sans-serif; */
@@ -11,6 +9,7 @@ export const H1 = styled.h1`
   font-size: 70px;
   color: ${({ theme }) => theme.color.colorTeal};
   text-shadow: 5px 5px 1px black;
+  overflow: hidden;
 `;
 
 export const P = styled.p`
@@ -22,6 +21,13 @@ export const P = styled.p`
   /* font-weight: bolder; */
   /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
+`;
+
+export const Img = styled.div`
+  width: 400px;
+  position: absolute;
+  bottom: -50px;
+  right: -50px;
 `;
 
 export default Page4Styled;

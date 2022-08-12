@@ -23,13 +23,14 @@ export const P = styled.p`
   /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
   /* text-align: start; */
+  overflow: hidden;
 `;
 
 export const Img = styled.div`
   width: 400px;
   position: absolute;
-  bottom: 0;
-  right: 0;
+  bottom: -50px;
+  right: -50px;
 `;
 
 export default Page2Styled;

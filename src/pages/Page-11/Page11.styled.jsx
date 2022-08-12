@@ -39,4 +39,11 @@ export const Img = styled.img`
   left: 15px;
 `;
 
+export const ImgLogo = styled.div`
+  width: 400px;
+  position: absolute;
+  bottom: -50px;
+  right: -50px;
+`;
+
 export default Page11Styled;

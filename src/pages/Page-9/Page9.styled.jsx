@@ -46,4 +46,11 @@ export const Card = styled.div`
   margin: 0 1rem;
 `;
 
+export const ImgLogo = styled.div`
+  width: 400px;
+  position: absolute;
+  bottom: -50px;
+  right: -50px;
+`;
+
 export default Page9Styled;

@@ -11,6 +11,7 @@ const Page2 = () => {
         width: "100%",
         height: "100vh",
         position: "relative",
+        overflow: "hidden",
       }}
     >
       <Page2Styled

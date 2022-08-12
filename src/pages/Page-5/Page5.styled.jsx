@@ -8,6 +8,15 @@ const Page5Styled = styled(Page)`
   background-size: cover;
   background-repeat: no-repeat;
   width: 1903px;
+  position: relative;
+  overflow: hidden;
+`;
+
+export const Img = styled.div`
+  width: 400px;
+  position: absolute;
+  bottom: -50px;
+  right: -50px;
 `;
 
 export default Page5Styled;

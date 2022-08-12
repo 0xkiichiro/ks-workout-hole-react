@@ -4,6 +4,7 @@ import Page from "../../components/GlobalStyles/Page.styled";
 const Page6Styled = styled(Page)`
   /* ... */
   width: 1000px;
+  overflow: hidden;
 `;
 
 export const H1 = styled.h1`
@@ -23,6 +24,13 @@ export const P = styled.p`
   font-weight: bolder;
   /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
+`;
+
+export const Img = styled.div`
+  width: 400px;
+  position: absolute;
+  bottom: -50px;
+  right: -50px;
 `;
 
 export default Page6Styled;

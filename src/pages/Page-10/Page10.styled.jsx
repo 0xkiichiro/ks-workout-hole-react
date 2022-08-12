@@ -42,4 +42,11 @@ export const Peach = styled.img`
   width: 15%;
 `;
 
+export const Img = styled.div`
+  width: 400px;
+  position: absolute;
+  bottom: -50px;
+  right: -50px;
+`;
+
 export default Page10Styled;

@@ -24,4 +24,11 @@ export const P = styled.p`
   color: ${({ theme }) => theme.color.colorTeal};
 `;
 
+export const Img = styled.div`
+  width: 400px;
+  position: absolute;
+  bottom: -50px;
+  right: -50px;
+`;
+
 export default Page8Styled;
