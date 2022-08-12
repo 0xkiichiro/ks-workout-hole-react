@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ks-workout-hole-react/static/css/main.c01a1510.css",
-    "main.js": "/ks-workout-hole-react/static/js/main.9a4aa96b.js",
+    "main.css": "/ks-workout-hole-react/static/css/main.e379c344.css",
+    "main.js": "/ks-workout-hole-react/static/js/main.5965176a.js",
     "static/media/IMG-0916.jpeg": "/ks-workout-hole-react/static/media/IMG-0916.d93743df237e3e3ef8ba.jpeg",
     "static/media/IMG-0844.jpeg": "/ks-workout-hole-react/static/media/IMG-0844.4d18c6fd918052677795.jpeg",
     "static/media/steven.jpeg": "/ks-workout-hole-react/static/media/steven.19cc254b4ce16c2c6e90.jpeg",
@@ -14,11 +14,11 @@
     "static/media/doodle.png": "/ks-workout-hole-react/static/media/doodle.d57f5bcb86bff57d58e3.png",
     "static/media/peach.png": "/ks-workout-hole-react/static/media/peach.1ff98f81d9d024e588a9.png",
     "index.html": "/ks-workout-hole-react/index.html",
-    "main.c01a1510.css.map": "/ks-workout-hole-react/static/css/main.c01a1510.css.map",
-    "main.9a4aa96b.js.map": "/ks-workout-hole-react/static/js/main.9a4aa96b.js.map"
+    "main.e379c344.css.map": "/ks-workout-hole-react/static/css/main.e379c344.css.map",
+    "main.5965176a.js.map": "/ks-workout-hole-react/static/js/main.5965176a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c01a1510.css",
-    "static/js/main.9a4aa96b.js"
+    "static/css/main.e379c344.css",
+    "static/js/main.5965176a.js"
   ]
 }
