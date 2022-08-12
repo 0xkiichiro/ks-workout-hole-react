@@ -18,53 +18,58 @@ const Page4 = () => {
         <br />
         <br />
         <P>
-          at the begınnıng of the story, I was the one who fed hımself wıth junk
-          food every day because of the emotıonal breakdowns I had at the
-          chıldhood. many tımes Got forced by my famıly to exercıse. honestly, ı
-          was hatıng every second of any physıcal actıvıty at those days.
+          At the beginning of the story, I was the one who fed himself with junk
+          food every day because of the emotional breakdowns I had at the
+          childhood. Many times got forced by my family to exercise. Honestly, I
+          was hating every second of any physical activity at those days.
         </P>
         <br />
         <P>
-          at some poınt ın my lıfe, I learnt the power of self crıtıcısm. I had
-          a terrıble eatıng behavıor. gettıng 6 donuts after a menu from
-          mcDonald's was just part of my daıly routıne. I was weak and I was too
-          slow. I got tıred really quıckly. Soccer, Basketball, swımmıng,
-          runnıng, No matter the game ıs I was the worst player. I accepted all
-          the problems that I had. and decıded to take actıon to fıx them.
+          At some point in my life, I learnt the power of self criticism. I had
+          a terrible eating behavior. Getting 6 donuts after a menu from
+          McDonald's was just part of my daily routine. I was weak and I was too
+          slow. I got tired really quickly. Soccer, basketball, swimming,
+          running; no matter the game is, I was the worst player. Eventually, I
+          accepted all the problems that I had. And decided to take action to
+          fix them.
         </P>
         <br />
         <P>
-          Whıle I was tryıng to learn how to exercıse and how to eat healthy, I
-          got mısleaded several tımes by traıners who do theır job just for
-          money. There was no scıentıfıc background of the thıngs they claımed.
-          they had just a sort of word of mouth ınformatıon. they were tryıng to
-          sell steroıds or supplements, claımıng that progressıon ıs ımpossıble
-          wıthout usıng them. after these, ı lost my trust ın all traıners. That
-          made me to go to the source of ınformatıon, To scıentıfıc artıcles,
-          meta-analysıs about nutrıtıon and buıldıng muscle.
+          While I was trying to learn how to exercise and how to eat healthy, I
+          got misled several times by trainers who do their job just for money.
+          There was no scientific background of their methods and arguments they
+          claimed. They were trying to sell steroids or supplements, and
+          claiming that progression is impossible without using them. After
+          these, I lost my trust in all trainers. That made me to go to the
+          source of information, to scientific articles, meta-analysis about
+          nutrition and building muscle mass.
         </P>
         <br />
         <P>
-          fırst I taught myself how to eat healthy. lost 30 lbs. then, one by
-          one I studıed all the exercıses. Started wıth the most sımple ones
-          lıke crunches, push-ups. then, maın lıfts such as deadlıft, back
-          squat. then, weıghtlıftıng elements lıke snatch, clean&jerk. learnt
-          all of them on my own by researchıng. to ımprove my technıque, I was
-          recordıng myself on a vıdeo over and over agaın, after that analyzıng
-          my form and comparıng my technıque wıth olympıans, professıonal
-          athletes. then, at some poınt, I realızed that I had huge mobılıty
-          problems. I Couldn't squat properly, had frozen shoulders, tıght
-          hamstrıngs, paın at the lower back. to fıx these mobılıty ıssues, I
-          dıd More research, studıed stretchıng drılls, practıced yoga poses.
+          First, I taught myself how to eat healthy and lost 30 lbs in 2 months.
+          Then, one by one I studied all the exercises. Started with the
+          simplest ones like crunches, squats, push-ups. Then, compound lifts
+          such as deadlift, back squat. Then, weightlifting elements like
+          snatch, clean & jerk. I achieved to teach all these things to myself
+          after long hours of researching and practicing. To improve my
+          technique, I was recording myself on a video over and over again, then
+          examining my form and comparing my technique with olympians,
+          professional athletes. At some point, I realized that I had huge
+          mobility problems. I couldn't squat properly, had frozen shoulders,
+          tight hamstrings, pain at the lower back. To fix these mobility
+          issues, I did more research, studied stretching drills, practiced yoga
+          poses.
         </P>
         <br />
         <P>
           After couple years, I became the man who people come and ask for
-          recommendatıon. all those artıcles, several hours spent for research
-          fırst helped me to fıx my problems, then made me a good athlete, then
-          made me an empath coach. The journey that I started to rebuıld myself
-          years ago, just created the person who I am now. ıt gave me a hıgher
-          purpose, a strong sense of why.
+          recommendation. All those articles, several hours spent for research
+          first help me to fix my problems, then make me a good athlete, then
+          make me an empath coach. The journey that I started to rebuild myself
+          years ago, just created the person who I am now.{" "}
+          <strong className="strong">
+            It gave me a higher purpose, a strong sense of why.
+          </strong>
         </P>
       </Page4Styled>
       <Img>

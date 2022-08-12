@@ -9,14 +9,13 @@ export const H1 = styled.h1`
   font-size: 70px;
   color: ${({ theme }) => theme.color.colorTeal};
   text-shadow: 5px 5px 1px black;
-  overflow: hidden;
 `;
 
 export const P = styled.p`
   /* font-family: "Big Shoulders Display"; */
   /* font-family: "Playfair Display", serif; */
   font-family: "Mouse Memoirs", sans-serif;
-  font-size: 34px;
+  font-size: 30px;
   /* font-size: 24px; */
   /* font-weight: bolder; */
   /* text-transform: uppercase; */

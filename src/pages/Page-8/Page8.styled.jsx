@@ -19,9 +19,10 @@ export const P = styled.p`
   font-family: "Mouse Memoirs", sans-serif;
   font-size: 30px;
   /* font-size: 24px; */
-  font-weight: bolder;
+  /* font-weight: bolder; */
   /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
+  text-align: start;
 `;
 
 export const Img = styled.div`

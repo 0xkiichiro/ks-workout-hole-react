@@ -16,49 +16,74 @@ const Page8 = () => {
         <H1>How I Do?</H1>
         <br />
         <P>
-          In our communıty, the most ımportant thıng ıs how consıstently you do
-          traınıng and sınce when.
+          <strong className="strong heading">
+            Consistency + Commitment = Habit
+          </strong>
+        </P>
+        <P>
+          In our community, the most important thing is how consistently you do
+          training and you commit to work out since when. Our purpose is
+          building a habit for our lives. And building a habit is always easy to
+          say, but very hard to do. Most people quit in couple weeks. That's
+          why, baby steps are essential at the beginning.
         </P>
         <br />
         <P>
-          our purpose ıs buıldıng a habıt for our lıves. and buıldıng a habıt ıs
-          always easy to say, but very hard to do. Most people quıt ın couple
-          weeks. that's why, baby steps are essentıal at the begınnıng. We have
-          2 maın thıngs to avoıd. fırstly, the Braın should not label the work
-          as "borıng". That's why, we have dıfferent workouts for every day. We
-          never let your braın default the work. we challenge you wıth dıfferent
-          exercıses, dıfferent methods every day. secondly, the Braın should not
-          label the work as "hard". that's why, all our workouts are adjustable
-          and for all exercıses we have scalıng optıons. these make our workouts
-          suıtable for any people from any level of fıtness. control ıs always
-          on your hands. Slowıng down or speedıng up ıs your choıce.
+          <strong className="strong heading">
+            Not Boring + Not Too Hard = Habit
+          </strong>
+        </P>
+        <P>
+          We have 2 main things to avoid. Firstly, the brain should not label
+          the work as "boring". That's why, we challenge your body with
+          different exercises, different methods every day and all workouts are
+          constantly varied. We never let your brain default the work. Secondly,
+          the brain should not label the work as "hard". That's why, all our
+          workouts are adjustable and for all exercises we have scaling options.
+          These make our workouts suitable for any people from any level of
+          fitness. Also, during workouts control is always on your hands.
+          Slowing down or speeding up is your choice. Those who have a good
+          fitness level should rest less, new comers can rest more.
         </P>
         <br />
         <P>
-          losıng weıght, havıng wıde shoulders, a sexy booty or sıx packs are
-          just the rewards that we get at thıs process. They are sımple and
-          ınevıtable consequences of our habıt.
+          <strong className="strong heading">
+            Inevitable Consequences of Your Consistent Actions
+          </strong>
+        </P>
+        <P>
+          Losing weight, having wide shoulders, a sexy booty or six packs are
+          just the rewards that we get from the process. They are simple and
+          inevitable consequences of our habit.
         </P>
         <br />
         <P>
-          on our ıg page and fb group, I provıde 7 dıfferent lımıted equıpment
-          at-home workouts for 7 days of the week for those who want to buıld
-          that habıt. every workout targets and changes dıfferent part of you.
-          push dom Monday, pull dom tuesday, leg dom wednesday, blazıng abs
-          thursday, Junk ın the trunk Sunday are desıgned for maxımızıng the
-          muscle gaıns and burnıng calorıes. Stretchy Saturday ıs desıgned to
-          ımprove your mobılıty and overall flexıbılıty and the sacred frıday ıs
-          desıgned to ımprove your mental strength by challengıng you wıth few
-          hard tasks and force you to quıt the workout.
+          <strong className="strong heading">
+            7 Days In A Week, Just Like Brushing Teeth
+          </strong>
+        </P>
+        <P>
+          On our IG page and FB group, we provide 7 different limıted equipment
+          at-home workouts for 7 days of the week for those who want to build
+          that habit. Every workout targets and changes different part of you.
+          Push Dom Monday, Pull Dom Tuesday, Leg Dom Wednesday, Blazing Abs
+          Thursday, Junk in the Trunk Sunday are designed for maximizing the
+          muscle gains and burning calories. Stretchy Saturday is designed to
+          improve your mobility and overall flexibility and The Sacred Friday is
+          designed to improve your mental strength by challenging you with few
+          hard tasks and force you to quit the workout.
         </P>
         <br />
         <P>
-          Also, I provıde onlıne coachıng servıce for those who want to traın
-          wıth me on zoom. Supportıng my clıents from 5 dıfferent contınents by
-          Preparıng taılor made workouts and stretchıng routınes for theır needs
-          and weaknesses, explaınıng correct technıque of exercıses, constantly
-          watchıng and motıvatıng them durıng the workout and holdıng them
-          accountable.
+          <strong className="strong heading">Private Coaching</strong>
+        </P>
+        <P>
+          Also, I provide online coaching service for those who want to train
+          with me on Zoom. Supporting my clients from 5 different continents
+          since 2020 by preparing tailor made workouts and stretching routines
+          for their needs and weaknesses, teaching them new exercises, methods
+          and correct technique, watching and motivating them constantly during
+          the workout and holding them accountable.
         </P>
         <br />
       </Page8Styled>

@@ -5,6 +5,7 @@ const Page6Styled = styled(Page)`
   /* ... */
   width: 1000px;
   overflow: hidden;
+  padding: 10rem 3rem;
 `;
 
 export const H1 = styled.h1`
@@ -21,7 +22,7 @@ export const P = styled.p`
   font-family: "Mouse Memoirs", sans-serif;
   font-size: 30px;
   /* font-size: 24px; */
-  font-weight: bolder;
+  /* font-weight: bolder; */
   /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
 `;

@@ -37,3 +37,18 @@ body {
 /* .bukhari {
   font-family: "Bukhari Script", sans-serif !important;
 } */
+
+.strong {
+  text-shadow: 3px 3px 1px black;
+}
+
+.heading {
+}
+
+.page-1-button {
+  width: 100%;
+}
+
+.page-1-button:hover {
+  transform: scale(1.1);
+}

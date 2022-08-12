@@ -25,15 +25,17 @@ const Page11 = () => {
         <P>I don't have tıme to waıt! I need to reach K asap!</P>
         <P>ok, there you go:</P>
         <Flex>
-          <BsInstagram className="contact-icon" />
-          <P>@Vatanseveer</P>
-        </Flex>
-        <Flex>
-          <BsWhatsapp className="contact-icon" />
-          <div>
-            <P>+90 5323857695 </P>
-            <P>(whatsapp only) </P>
-          </div>
+          <Flex style={{ margin: "0 5rem" }}>
+            <BsInstagram className="contact-icon" />
+            <P>@Vatanseveer</P>
+          </Flex>
+          <Flex style={{ margin: "0 5rem" }}>
+            <BsWhatsapp className="contact-icon" />
+            <div>
+              <P>+90 5323857695 </P>
+              <P>(whatsapp only) </P>
+            </div>
+          </Flex>
         </Flex>
       </Page11Styled>
       <ImgLogo>

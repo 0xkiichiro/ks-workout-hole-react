@@ -27,6 +27,7 @@ const Page9 = () => {
               been working with him. He keeps me accountable and he also helps
               me a great deal with nutrition plans. He is very knowledgeable.
             </P>
+            <br />
           </Card>
           <Card>
             <Img src={steven} alt="" />
@@ -37,6 +38,7 @@ const Page9 = () => {
               His physiological knowledge and focused presence make him by far
               the best professional trainer I have ever worked with.
             </P>
+            <br />
           </Card>
           <Card>
             <Img src={tunch} alt="" />
@@ -49,6 +51,7 @@ const Page9 = () => {
               <br />
               <br />
             </P>
+            <br />
           </Card>
         </Flex>
       </Page9Styled>

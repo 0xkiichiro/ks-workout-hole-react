@@ -12,6 +12,10 @@ export const Button = styled.button`
   font-size: 30pt;
   width: 100%;
   text-shadow: 0 0 4px #fcf9f9;
+
+  &:hover {
+    cursor: pointer;
+  }
 `;
 
 export const Label = styled.label`

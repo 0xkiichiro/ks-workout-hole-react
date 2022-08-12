@@ -28,10 +28,11 @@ export const P = styled.p`
   font-family: "Mouse Memoirs", sans-serif;
   font-size: 30px;
   /* font-size: 20px; */
-  font-weight: bolder;
+  /* font-weight: bolder; */
   /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
   margin-top: 1rem;
+  padding: 0 0.5rem;
 `;
 
 export const Img = styled.img`
@@ -44,6 +45,13 @@ export const Img = styled.img`
 export const Card = styled.div`
   width: 300px;
   margin: 0 1rem;
+
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
 `;
 
 export const ImgLogo = styled.div`

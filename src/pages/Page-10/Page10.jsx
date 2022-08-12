@@ -37,7 +37,7 @@ const Page10 = () => {
           <P>K's Workout Hole</P>
         </Flex>
         <Label>7 days ın a week, just lıke brushıng teeth!</Label>
-        <Flex>
+        {/* <Flex>
           <Doodle src={doodle} alt="" />
           <Doodle src={doodle} alt="" />
           <Doodle src={doodle} alt="" />
@@ -45,7 +45,7 @@ const Page10 = () => {
           <Doodle src={doodle} alt="" />
           <Doodle src={doodle} alt="" />
         </Flex>
-        <Peach src={peach} alt="" />
+        <Peach src={peach} alt="" /> */}
       </Page10Styled>
       <Img>
         <img src={logo} style={{ width: "100%" }}></img>

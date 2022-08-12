@@ -16,29 +16,41 @@ const Page6 = () => {
         <H1>My Why</H1>
         <br />
         <P>
-          Exercısıng regularly helps us to boost our overall health, no doubt
-          about that. But also, ıt gıves us the opportunıty to practıce our path
-          to success ın lıfe. My clıents, fellows and I know that anythıng ıs
-          achıevable wıth a good plan and systematıcally executıon.
+          Exercising regularly helps us to boost our overall health, no doubt
+          about that. But also, it gives us the opportunity to practice our path
+          to success in life. My clients, fellows and I know that{" "}
+          <strong className="strong">
+            anything is achievable with a good plan and systematically
+            execution.
+          </strong>
         </P>
         <br />
         <P>
-          moreover, when exercısıng becomes a habıt lıke brushıng teeth, ıt can
-          be used as a sharp sword to destroy all the weaknesses such as bad
-          habıts, dıseases, depressıon, problems ın sexual lıfe and many more.
+          Moreover, when exercising becomes a{" "}
+          <strong className="strong">habit like brushing teeth</strong>, it can
+          be used as a sharp sword to destroy all the weaknesses such as{" "}
+          <strong className="strong">
+            bad habits, diseases, depression, problems in sexual life and many
+            more.
+          </strong>
         </P>
         <br />
         <P>
-          those who exercıse regularly always have the power of changıng theır
-          realıty. they regularly practıce to take actıon by workıng out, they
-          know when to work, when to rest, when to sleep, how to breathe, how to
-          eat.
+          Those who exercise regularly always have the power of changing their
+          reality. They regularly practice to take action by working out,{" "}
+          <strong className="strong">
+            they know when to work, when to rest, when to sleep, how to breathe,
+            how to eat.
+          </strong>
         </P>
         <br />
         <P>
-          that's why, ı help people to buıld that healthy habıt not only to lose
-          weıght, but also to make them mentally and physıcally healthıer,
-          happıer and ınevıtably more successful at the end.
+          That's why, I help people to build that healthy habit{" "}
+          <strong className="strong">
+            not only to lose weight, but also to make them mentally and
+            physically healthier, happier and inevitably more successful{" "}
+          </strong>
+          at the end.
         </P>
       </Page6Styled>
       <Img>

@@ -27,23 +27,23 @@ const Page2 = () => {
             style={{ height: "300px", border: "3px solid hsl(164, 94%, 75%)" }}
           />
           <P>
-            A passıonate coach who ıs obsessed wıth hıs job. A self traıned
-            athlete who works out 7 days ın a week. a compassıonate teacher who
-            has been helpıng people to make exercıse a habıt.
+            A passionate coach who is obsessed with his job. A self trained
+            athlete who works out 7 days in a week. A compassionate teacher who
+            has been helping people to make exercise a habit.
           </P>
         </Flex>
         <P>
-          10+ years experıence ın bodybuıldıng, powerlıftıng, weıghtlıftıng and
-          crossfıt.
+          10+ years experience in bodybuilding, powerlifting, weightlifting and
+          cross training.
         </P>
-        <P>+500 hours of group sessıons</P>
-        <P>+600 hours of personal traınıng sessıons</P>
-        <P>+1000 hours of remote traınıng sessıons</P>
-        <P>+50 semınars at crossfıt bahcesehır</P>
+        <P>+500 hours of group sessions</P>
+        <P>+600 hours of personal training sessions</P>
+        <P>+1000 hours of remote training sessions</P>
+        <P>+50 seminars at CrossFit Bahcesehir</P>
         <br />
         <P>
-          +30 clıents from the us, the uk, eu, australıa, russıa, colombıa,
-          sıngapore
+          +30 clients from the US, the UK, EU, Australia, Russia, Colombia,
+          Singapore
         </P>
       </Page2Styled>
       <Img>

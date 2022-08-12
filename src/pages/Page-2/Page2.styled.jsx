@@ -11,6 +11,7 @@ export const H1 = styled.h1`
   font-size: 70px;
   color: ${({ theme }) => theme.color.colorTeal};
   text-shadow: 5px 5px 1px black;
+  margin-bottom: 3rem;
 `;
 
 export const P = styled.p`
@@ -19,7 +20,7 @@ export const P = styled.p`
   font-family: "Mouse Memoirs", sans-serif;
   font-size: 40px;
   /* font-size: 24px; */
-  font-weight: bolder;
+  /* font-weight: bolder; */
   /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
   /* text-align: start; */
