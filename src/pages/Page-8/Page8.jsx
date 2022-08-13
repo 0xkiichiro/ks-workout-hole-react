@@ -46,7 +46,7 @@ const Page8 = () => {
           fitness level should rest less, new comers can rest more.
         </P>
         <br />
-        <P>
+        {/* <P>
           <strong className="strong heading">
             Inevitable Consequences of Your Consistent Actions
           </strong>
@@ -56,22 +56,25 @@ const Page8 = () => {
           just the rewards that we get from the process. They are simple and
           inevitable consequences of our habit.
         </P>
-        <br />
+        <br /> */}
         <P>
           <strong className="strong heading">
             7 Days In A Week, Just Like Brushing Teeth
           </strong>
         </P>
         <P>
-          On our IG page and FB group, we provide 7 different limıted equipment
-          at-home workouts for 7 days of the week for those who want to build
-          that habit. Every workout targets and changes different part of you.
-          Push Dom Monday, Pull Dom Tuesday, Leg Dom Wednesday, Blazing Abs
-          Thursday, Junk in the Trunk Sunday are designed for maximizing the
-          muscle gains and burning calories. Stretchy Saturday is designed to
-          improve your mobility and overall flexibility and The Sacred Friday is
-          designed to improve your mental strength by challenging you with few
-          hard tasks and force you to quit the workout.
+          Losing weight, having wide shoulders, a sexy booty or six packs are
+          just the rewards that we get from the process. They are simple and
+          inevitable consequences of our habit. On our IG page and FB group, we
+          provide 7 different limıted equipment at-home workouts for 7 days of
+          the week for those who want to build that habit. Every workout targets
+          and changes different part of you. Push Dom Monday, Pull Dom Tuesday,
+          Leg Dom Wednesday, Blazing Abs Thursday, Junk in the Trunk Sunday are
+          designed for maximizing the muscle gains and burning calories.
+          Stretchy Saturday is designed to improve your mobility and overall
+          flexibility and The Sacred Friday is designed to improve your mental
+          strength by challenging you with few hard tasks and force you to quit
+          the workout.
         </P>
         <br />
         <P>

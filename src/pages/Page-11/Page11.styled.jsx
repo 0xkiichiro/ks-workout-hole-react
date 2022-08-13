@@ -29,7 +29,7 @@ export const P = styled.p`
   font-family: "Mouse Memoirs", sans-serif;
   font-size: 40px;
   font-weight: bold;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
 `;
 
@@ -64,6 +64,7 @@ export const Button = styled.button`
   font-family: "Big Shoulders Display", cursive;
   font-size: 30pt;
   text-shadow: 0 0 4px #fcf9f9;
+  text-transform: uppercase;
 
   &:hover {
     cursor: pointer;

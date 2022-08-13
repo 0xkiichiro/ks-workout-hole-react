@@ -26,13 +26,14 @@ export const P = styled.p`
   /* font-family: "Big Shoulders Display"; */
   /* font-family: "Playfair Display", serif; */
   font-family: "Mouse Memoirs", sans-serif;
-  font-size: 30px;
+  font-size: 25px;
   /* font-size: 20px; */
   /* font-weight: bolder; */
   /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
   margin-top: 1rem;
-  padding: 0 0.5rem;
+  padding: 0 2rem;
+  text-align: justify;
 `;
 
 export const Img = styled.img`
@@ -43,7 +44,7 @@ export const Img = styled.img`
 `;
 
 export const Card = styled.div`
-  width: 300px;
+  width: 350px;
   margin: 0 1rem;
 
   background: rgb(0, 0, 0);

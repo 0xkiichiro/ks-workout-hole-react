@@ -17,6 +17,8 @@ export const Img = styled.div`
   position: absolute;
   bottom: -50px;
   right: -50px;
+  /* background-color: hotpink;
+  border-radius: 15rem; */
 `;
 
 export default Page5Styled;

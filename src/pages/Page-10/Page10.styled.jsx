@@ -25,15 +25,15 @@ export const Label = styled.label`
 `;
 
 export const LabelCaps = styled.label`
-  font-size: 4rem;
+  font-size: 3rem;
   font-family: "Mouse Memoirs", sans-serif;
   font-weight: 400;
 
   color: #fff;
   text-shadow: 0 0 1px #fff, 0 0 1px #fff, 0 0 21px #fff;
   /* margin: 2rem 0; */
-  margin: 1rem 0;
-  text-transform: uppercase;
+  margin: 0.25rem 0;
+  /* text-transform: uppercase; */
 `;
 
 export const P = styled.p`

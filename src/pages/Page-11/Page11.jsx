@@ -28,7 +28,7 @@ const Page11 = () => {
           <H1>Trial Session</H1>
         </div>
         <Label>get coached by k!</Label>
-        <P>Type your email below, then k reaches you:</P>
+        <P>Type your email below, then K reaches you:</P>
         <form
           style={{
             display: "flex",
@@ -39,12 +39,12 @@ const Page11 = () => {
           <Button type="submit">Send</Button>
         </form>
         {/* <Img src={clickMe} alt="" /> */}
-        <P>I don't have tıme to waıt! I need to reach K asap!</P>
+        <P>I don't have time to waıt! I need to reach K asap!</P>
         <P>ok, there you go:</P>
         <Flex>
           <Flex style={{ margin: "0 5rem" }}>
             <BsInstagram className="contact-icon" />
-            <P>@Vatanseveer</P>
+            <P>@vatanseveer</P>
           </Flex>
           <Flex style={{ margin: "0 5rem" }}>
             <BsWhatsapp className="contact-icon" />

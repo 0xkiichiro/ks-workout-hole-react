@@ -3,6 +3,7 @@ import { BsInstagram, BsFacebook } from "react-icons/bs";
 import Flex from "../../components/GlobalStyles/Flex.styled";
 import logo from "../../assets/img/logo-teal.png";
 import Table from "../../components/Table/Table";
+import { ImArrowRight } from "react-icons/im";
 
 const Page10 = () => {
   return (
@@ -29,11 +30,11 @@ const Page10 = () => {
           <P>K's Workout Hole</P>
         </Flex>
         <Flex style={{ width: "80%" }} justify="space-around">
-          <Flex style={{ width: "40%" }}>
-            <LabelCaps>
-              7 different workouts for 7 different days of the week:
-            </LabelCaps>
+          <Flex style={{ width: "40%", flexDirection: "column" }}>
+            <LabelCaps>7 different workouts for</LabelCaps>
+            <LabelCaps>7 different days of the week</LabelCaps>
           </Flex>
+          <ImArrowRight style={{ fontSize: "5rem", color: "white" }} />
           <Table />
           {/* <Doodle src={doodle} alt="" />
           <Doodle src={doodle} alt="" />
