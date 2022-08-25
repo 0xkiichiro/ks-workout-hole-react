@@ -7,6 +7,7 @@ const TableStyled = styled.div`
   font-size: 2.5rem;
   font-family: "Big Shoulders Display", cursive;
   font-weight: bolder;
+  width: 30rem;
 `;
 
 export default TableStyled;

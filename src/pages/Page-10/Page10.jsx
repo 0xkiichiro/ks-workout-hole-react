@@ -3,7 +3,7 @@ import { BsInstagram, BsFacebook } from "react-icons/bs";
 import Flex from "../../components/GlobalStyles/Flex.styled";
 import logo from "../../assets/img/logo-teal.png";
 import Table from "../../components/Table/Table";
-import { ImArrowRight } from "react-icons/im";
+import rightArrow from "../../assets/right-arrow.png";
 
 const Page10 = () => {
   return (
@@ -29,12 +29,15 @@ const Page10 = () => {
           <BsFacebook className="contact-icon" />
           <P>K's Workout Hole</P>
         </Flex>
-        <Flex style={{ width: "80%" }} justify="space-around">
+        <Flex style={{ width: "85%" }} justify="space-around">
           <Flex style={{ width: "40%", flexDirection: "column" }}>
             <LabelCaps>7 different workouts for</LabelCaps>
             <LabelCaps>7 different days of the week</LabelCaps>
           </Flex>
-          <ImArrowRight style={{ fontSize: "5rem", color: "white" }} />
+          <img
+            src={rightArrow}
+            style={{ width: "12rem", margin: "0 1.5rem" }}
+          />
           <Table />
           {/* <Doodle src={doodle} alt="" />
           <Doodle src={doodle} alt="" />

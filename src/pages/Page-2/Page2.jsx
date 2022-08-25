@@ -36,10 +36,12 @@ const Page2 = () => {
           10+ years experience in bodybuilding, powerlifting, weightlifting and
           cross training.
         </P>
-        <P>+500 hours of group sessions</P>
-        <P>+600 hours of personal training sessions</P>
-        <P>+1000 hours of remote training sessions</P>
-        <P>+50 seminars at CrossFit Bahcesehir</P>
+        <Flex flexDirection="column" align="start" style={{ width: "100%" }}>
+          <P className="plus">+500 hours of group sessions</P>
+          <P className="plus">+600 hours of personal training sessions</P>
+          <P className="plus">+1000 hours of remote training sessions</P>
+          <P className="plus">+50 seminars at CrossFit Bahcesehir</P>
+        </Flex>
         <br />
         <P>
           +30 clients from the US, the UK, EU, Australia, Russia, Colombia,

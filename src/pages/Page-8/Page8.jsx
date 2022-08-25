@@ -15,11 +15,13 @@ const Page8 = () => {
       <Page8Styled flexDirection="column" justify="space-evenly">
         <H1>How I Do?</H1>
         <br />
-        <P>
-          <strong className="strong heading">
-            Consistency + Commitment = Habit
-          </strong>
-        </P>
+        <Flex flexDirection="column" align="start" style={{ width: "100%" }}>
+          <P>
+            <strong className="strong heading">
+              Consistency + Commitment = Habit
+            </strong>
+          </P>
+        </Flex>
         <P>
           In our community, the most important thing is how consistently you do
           training and you commit to work out since when. Our purpose is
@@ -28,11 +30,13 @@ const Page8 = () => {
           why, baby steps are essential at the beginning.
         </P>
         <br />
-        <P>
-          <strong className="strong heading">
-            Not Boring + Not Too Hard = Habit
-          </strong>
-        </P>
+        <Flex flexDirection="column" align="start" style={{ width: "100%" }}>
+          <P>
+            <strong className="strong heading">
+              Not Boring + Not Too Hard = Habit
+            </strong>
+          </P>
+        </Flex>
         <P>
           We have 2 main things to avoid. Firstly, the brain should not label
           the work as "boring". That's why, we challenge your body with
@@ -57,11 +61,13 @@ const Page8 = () => {
           inevitable consequences of our habit.
         </P>
         <br /> */}
-        <P>
-          <strong className="strong heading">
-            7 Days In A Week, Just Like Brushing Teeth
-          </strong>
-        </P>
+        <Flex flexDirection="column" align="start" style={{ width: "100%" }}>
+          <P>
+            <strong className="strong heading">
+              7 Days In A Week, Just Like Brushing Teeth
+            </strong>
+          </P>
+        </Flex>
         <P>
           Losing weight, having wide shoulders, a sexy booty or six packs are
           just the rewards that we get from the process. They are simple and
@@ -77,9 +83,11 @@ const Page8 = () => {
           the workout.
         </P>
         <br />
-        <P>
-          <strong className="strong heading">Private Coaching</strong>
-        </P>
+        <Flex flexDirection="column" align="start" style={{ width: "100%" }}>
+          <P>
+            <strong className="strong heading">Private Coaching</strong>
+          </P>
+        </Flex>
         <P>
           Also, I provide online coaching service for those who want to train
           with me on Zoom. Supporting my clients from 5 different continents

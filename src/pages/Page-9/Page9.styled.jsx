@@ -11,6 +11,7 @@ export const H1 = styled.h1`
   font-size: 70px;
   color: ${({ theme }) => theme.color.colorTeal};
   text-shadow: 5px 5px 1px black;
+  margin-bottom: 1.5rem;
 `;
 
 export const H2 = styled.h2`
@@ -36,6 +37,17 @@ export const P = styled.p`
   text-align: justify;
 `;
 
+export const P2 = styled.p`
+  font-family: "Mouse Memoirs", sans-serif;
+  font-size: 20px;
+  color: gray;
+  opacity: 0.8;
+  font-style: oblique;
+  margin-top: 1rem;
+  padding: 0 2rem;
+  text-align: center;
+`;
+
 export const Img = styled.img`
   height: 400px;
   width: 100%;
@@ -53,6 +65,7 @@ export const Card = styled.div`
     rgba(0, 0, 0, 1) 0%,
     rgba(255, 255, 255, 0) 100%
   );
+  height: 800px;
 `;
 
 export const ImgLogo = styled.div`

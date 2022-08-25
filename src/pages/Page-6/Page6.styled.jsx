@@ -25,7 +25,7 @@ export const P = styled.p`
   /* font-weight: bolder; */
   /* text-transform: uppercase; */
   color: ${({ theme }) => theme.color.colorTeal};
-  text-align: start;
+  text-align: justify;
 `;
 
 export const Img = styled.div`

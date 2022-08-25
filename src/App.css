@@ -43,6 +43,8 @@ body {
 }
 
 .heading {
+  display: block;
+  padding: 0.25rem 0 !important;
 }
 
 .page-1-button {
@@ -53,6 +55,17 @@ body {
   transform: scale(1.1);
 }
 
+.tr {
+  line-height: 4rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+
 .tr:nth-child(odd) {
   background-color: lightgray;
 }
+
+/* .plus {
+  font-size: 50px !important;
+} */
