@@ -65,7 +65,10 @@ const Page11 = () => {
               target="_blank"
               className="links"
             >
-              <BsWhatsapp className="contact-icon" />
+              <BsWhatsapp
+                className="contact-icon"
+                style={{ marginTop: "25px" }}
+              />
               <div>
                 <P>+90 5323857695 </P>
                 <P>(whatsapp only) </P>

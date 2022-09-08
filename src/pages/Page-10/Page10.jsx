@@ -37,7 +37,7 @@ const Page10 = () => {
             target="_blank"
             className="links"
           >
-            <BsYoutube className="contact-icon" />
+            <BsYoutube className="contact-icon" style={{ fontSize: "3rem" }} />
             <P>K's Workout Hole</P>
           </a>
         </Flex>
