@@ -30,7 +30,7 @@ const Page11 = () => {
         <Label>get coached by k!</Label>
         <P>Type your email below, then K reaches you:</P>
         <form
-          action="https://formsubmit.co/7265072462068d9109d6921e8b5fac0f"
+          action="https://formsubmit.co/vatanseverkaya95@gmail.com"
           method="POST"
           style={{
             display: "flex",
@@ -39,11 +39,11 @@ const Page11 = () => {
         >
           <Input type="email" name="email"></Input>
           <Button type="submit">Send</Button>
-          <input
+          {/* <input
             type="hidden"
             name="_next"
             value="http://localhost:3000/"
-          ></input>
+          ></input> */}
         </form>
         {/* <Img src={clickMe} alt="" /> */}
         <P>I don't have time to waıt! I need to reach K asap!</P>
@@ -51,7 +51,7 @@ const Page11 = () => {
         <Flex>
           <Flex style={{ margin: "0 5rem", gap: "1rem" }}>
             <a
-              href="https://www.instagram.com/ksworkouthole/?hl=en"
+              href="https://www.instagram.com/vatanseveer/?hl=en"
               target="_blank"
               className="links"
             >
