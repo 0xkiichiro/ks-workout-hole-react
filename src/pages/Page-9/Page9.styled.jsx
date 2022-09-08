@@ -40,7 +40,7 @@ export const P = styled.p`
 export const P2 = styled.p`
   font-family: "Mouse Memoirs", sans-serif;
   font-size: 20px;
-  color: gray;
+  color: white;
   opacity: 0.8;
   font-style: oblique;
   margin-top: 1rem;

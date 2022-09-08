@@ -30,28 +30,47 @@ const Page11 = () => {
         <Label>get coached by k!</Label>
         <P>Type your email below, then K reaches you:</P>
         <form
+          action="https://formsubmit.co/7265072462068d9109d6921e8b5fac0f"
+          method="POST"
           style={{
             display: "flex",
             flexDirection: "column",
           }}
         >
-          <Input type="email"></Input>
+          <Input type="email" name="email"></Input>
           <Button type="submit">Send</Button>
+          <input
+            type="hidden"
+            name="_next"
+            value="http://localhost:3000/"
+          ></input>
         </form>
         {/* <Img src={clickMe} alt="" /> */}
         <P>I don't have time to waıt! I need to reach K asap!</P>
-        <P>ok, there you go:</P>
+        <P>OK, there you go:</P>
         <Flex>
-          <Flex style={{ margin: "0 5rem" }}>
-            <BsInstagram className="contact-icon" />
-            <P>@vatanseveer</P>
+          <Flex style={{ margin: "0 5rem", gap: "1rem" }}>
+            <a
+              href="https://www.instagram.com/ksworkouthole/?hl=en"
+              target="_blank"
+              className="links"
+            >
+              <BsInstagram className="contact-icon" />
+              <P>@vatanseveer</P>
+            </a>
           </Flex>
-          <Flex style={{ margin: "0 5rem" }}>
-            <BsWhatsapp className="contact-icon" />
-            <div>
-              <P>+90 5323857695 </P>
-              <P>(whatsapp only) </P>
-            </div>
+          <Flex style={{ margin: "0 5rem", gap: "1rem" }}>
+            <a
+              href="https://wa.me/+903523857695"
+              target="_blank"
+              className="links"
+            >
+              <BsWhatsapp className="contact-icon" />
+              <div>
+                <P>+90 5323857695 </P>
+                <P>(whatsapp only) </P>
+              </div>
+            </a>
           </Flex>
         </Flex>
       </Page11Styled>
